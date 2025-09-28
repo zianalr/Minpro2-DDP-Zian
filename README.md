@@ -64,3 +64,8 @@ Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kon
 
 Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kondisi fisik. Jika input jenis ikan salah maka akan langsung muncul output tidak valid
 
+
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/4603926a7e6b868e2ceeeebdcc4c19aeeecaa386/Screenshot%202025-09-28%20220940.png)
+
+Saat user memilih menu 4, maka akan muncul output target ikan yang akan digantikan dengan yang baru, jika jenis ikan yang dimasukkan benar maka sistem akan melacak index dari ikan tersebut, lalu akan muncul input jenis ikan baru yang akan menggantikan, setelah itu sistem akan langsung mengganti/mengupdate, lalu akan muncul output seperti diatas
+
