@@ -23,3 +23,8 @@ Output ketika user berhasil login sebagai karyawan
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/18843a74ef9c407a09e1d33ce175a7450d3399a8/Screenshot%202025-09-28%20215809.png)
 
 Output ketika user salah memasukkan username dan password
+
+
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/d80f146b32602eee7126d35156bc4ef7dfa94ffa/Screenshot%202025-09-28%20220027.png)
+
+Outpun ketika user memilih menu 1 lalu memilih 1 lagi
