@@ -77,7 +77,7 @@ Saat user memilih menu 4, maka akan muncul output target ikan yang akan digantik
 
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/83dcd3fe94fce22bf657c20fe029bdbf4d4f8fa1/Screenshot%202025-09-28%20221119.png)
 
-Saat user memilih menu 5, maka akan muncul input untuk memasukkan jenis ikan cupang yang baru, setelah user memasukkan jenis ikan cupang baru, sistem akan menambahkan ke list jenis ikan cupang
+Saat user memilih menu 5, maka akan muncul input untuk memasukkan jenis ikan cupang yang baru, setelah user memasukkan jenis ikan cupang baru, sistem akan menambahkan ke list jenis ikan cupang (khusus menu ini hanya tersedia bagi user yang login sebagai manager)
 
 
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/d0199fa5fc1fe0c4bd431d9baed02302282ddf1a/Screenshot%202025-09-28%20221211.png)
