@@ -55,3 +55,8 @@ Saat user memilih menu 2, akan muncul input Masukkan Jenis Ikan Yang Ingin Disin
 Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kondisi fisik. Jika input jenis ikan benar, penyakit = tidak ada, kondisi fisik = normal. Maka ikan dinyatakan lolos validasi kelayakan kontes, sekaligus ikan akan ditambahkan di daftar ikan yang lolos validasi kelayakan kontes.
 
 
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/716cf2fe945b70077914393c6981568976c5be21/Screenshot%202025-09-28%20220645.png)
+
+Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kondisi fisik. Jika input jenis ikan benar, penyakit = ada atau kondisi fisik = luka. Maka ikan dinyatakan tidak lolos validasi kelayakan kontes
+
+
