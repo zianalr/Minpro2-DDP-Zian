@@ -33,3 +33,8 @@ Outpun ketika user memilih menu 1 lalu memilih 1 lagi
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/38f06ad228154a982740d1a6ed4bfa1e2d5e8012/Screenshot%202025-09-28%20223147.png)
 
 Output ketika user memilih menu 1 lalu memilih 2
+
+
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/bcf54eea2b22e1805281f5008567dafadb0ee65e/Screenshot%202025-09-28%20220117.png)
+
+Output ketika user memilih menu 1 lalu memilih 2 dalam kondisi tidak ada ikan di dalam list
