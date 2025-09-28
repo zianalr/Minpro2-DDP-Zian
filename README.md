@@ -90,3 +90,10 @@ Saat user memilih menu 6, maka program akan berhenti dan akan muncul output sepe
 Saat user memilih angka selain dari menu yang tersedia, maka akan muncul output seperti diatas
 
 
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/91bea88e011d01d518c96da53d1c4e45caab4912/Screenshot%202025-09-28%20221304.png)
+
+![img alt]()
+
+![img alt]()
+
+Berikut adalah output dari handling error, dimulai dari valueerror, keyboardinterrupt, dan eoferror.
