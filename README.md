@@ -10,7 +10,6 @@ Flowchart Breeder Ikan Cupang
 Berikut adalah contoh output dari semua input:
 
 
-
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/5811a88813adf8a7f6826f9b1ef673d978773461/Screenshot%202025-09-28%20215606.png)
 
 Output ketika user berhasil login sebagai manager
@@ -19,3 +18,8 @@ Output ketika user berhasil login sebagai manager
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/79a8ef574dac5f7f764ce727c5f7e4b01e7e9130/Screenshot%202025-09-28%20215728.png)
 
 Output ketika user berhasil login sebagai karyawan
+
+
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/18843a74ef9c407a09e1d33ce175a7450d3399a8/Screenshot%202025-09-28%20215809.png)
+
+Output ketika user salah memasukkan username dan password
