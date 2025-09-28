@@ -50,3 +50,8 @@ Saat user memilih menu 2, akan muncul input Masukkan Jenis Ikan Yang Ingin Disin
 Saat user memilih menu 2, akan muncul input Masukkan Jenis Ikan Yang Ingin Disingkirkan. Jika user memasukkan data yang salah maka akan muncul output seperti diatas
 
 
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/6e49e859c4a4d3ea37ff806dd84ac0fb5e072113/Screenshot%202025-09-28%20220515.png)
+
+Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kondisi fisik. Jika input jenis ikan benar, penyakit = tidak ada, kondisi fisik = normal. Maka ikan dinyatakan lolos validasi kelayakan kontes, sekaligus ikan akan ditambahkan di daftar ikan yang lolos validasi kelayakan kontes.
+
+
