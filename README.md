@@ -28,3 +28,8 @@ Output ketika user salah memasukkan username dan password
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/d80f146b32602eee7126d35156bc4ef7dfa94ffa/Screenshot%202025-09-28%20220027.png)
 
 Outpun ketika user memilih menu 1 lalu memilih 1 lagi
+
+
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/38f06ad228154a982740d1a6ed4bfa1e2d5e8012/Screenshot%202025-09-28%20223147.png)
+
+Output ketika user memilih menu 1 lalu memilih 2
