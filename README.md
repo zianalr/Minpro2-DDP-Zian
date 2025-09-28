@@ -60,3 +60,7 @@ Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kon
 Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kondisi fisik. Jika input jenis ikan benar, penyakit = ada atau kondisi fisik = luka. Maka ikan dinyatakan tidak lolos validasi kelayakan kontes
 
 
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/d2ae00457296e63b4d7ea1f924fec7aba0e0a106/Screenshot%202025-09-28%20220736.png)
+
+Saat user memilih menu 3, maka akan muncul input jenis ikan, umur, penyakit, kondisi fisik. Jika input jenis ikan salah maka akan langsung muncul output tidak valid
+
