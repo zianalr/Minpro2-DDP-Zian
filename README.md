@@ -38,3 +38,8 @@ Output ketika user memilih menu 1 lalu memilih 2
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/bcf54eea2b22e1805281f5008567dafadb0ee65e/Screenshot%202025-09-28%20220117.png)
 
 Output ketika user memilih menu 1 lalu memilih 2 dalam kondisi tidak ada ikan di dalam list
+
+
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/e45948347e6157c127856fc6a56a30893e6522c1/Screenshot%202025-09-28%20220311.png)
+
+Saat user memilih menu 2, akan muncul input Masukkan Jenis Ikan Yang Ingin Disingkirkan. Jika user memasukkan data dengan benar maka ikan akan terhapus
