@@ -17,7 +17,7 @@ Output ketika user berhasil login sebagai manager
 
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/79a8ef574dac5f7f764ce727c5f7e4b01e7e9130/Screenshot%202025-09-28%20215728.png)
 
-Output ketika user berhasil login sebagai karyawan
+Output ketika user berhasil login sebagai karyawan. Bedanya dengan manager yaitu manager bisa menambahkan jenis ikan baru
 
 
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/18843a74ef9c407a09e1d33ce175a7450d3399a8/Screenshot%202025-09-28%20215809.png)
@@ -90,10 +90,11 @@ Saat user memilih menu 6, maka program akan berhenti dan akan muncul output sepe
 Saat user memilih angka selain dari menu yang tersedia, maka akan muncul output seperti diatas
 
 
+
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/91bea88e011d01d518c96da53d1c4e45caab4912/Screenshot%202025-09-28%20221304.png)
 
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/edab3e6a2121526999e838e4212e1d6b00bbd26e/Screenshot%202025-09-28%20221317.png)
 
-![img alt]()
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/b8f85eee0f7a5b3b395bbe8d7c74b932f2be7ccc/Screenshot%202025-09-28%20221329.png)
 
-Berikut adalah output dari handling error, dimulai dari valueerror, keyboardinterrupt, dan eoferror.
+Berikut adalah output dari handling error, dimulai dari valueerror, keyboardinterrupt, dan eoferror
