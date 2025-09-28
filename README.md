@@ -92,7 +92,7 @@ Saat user memilih angka selain dari menu yang tersedia, maka akan muncul output 
 
 ![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/91bea88e011d01d518c96da53d1c4e45caab4912/Screenshot%202025-09-28%20221304.png)
 
-![img alt]()
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/edab3e6a2121526999e838e4212e1d6b00bbd26e/Screenshot%202025-09-28%20221317.png)
 
 ![img alt]()
 
