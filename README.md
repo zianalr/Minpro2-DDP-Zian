@@ -85,7 +85,7 @@ Saat user memilih menu 5, maka akan muncul input untuk memasukkan jenis ikan cup
 Saat user memilih menu 6, maka program akan berhenti dan akan muncul output seperti diatas (Jika sebelumnya user login sebagai karyawan maka menu untuk keluar dari program adalah angka 5)
 
 
-![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/5f10bde35b35326dc67a7bad47375123f3e79224/Screenshot%202025-09-28%20221151.png)
+![img alt](https://github.com/zianalr/Minpro2-DDP-Zian/blob/0afa615796670202c20b4d18a750d2d435d68526/Screenshot%202025-09-28%20231717.png)
 
 Saat user memilih angka selain dari menu yang tersedia, maka akan muncul output seperti diatas
 
